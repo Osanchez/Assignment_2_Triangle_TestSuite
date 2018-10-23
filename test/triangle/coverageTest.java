@@ -8,11 +8,12 @@ import static triangle.Triangle.Type.*;
 
 /**
  * Test class for the Triangle implementation.
- */
+ * */
 
 /**
- *  INVALID, SCALENE, EQUILATERAL, ISOSCELES
+ *  Triangle Types: INVALID, SCALENE, EQUILATERAL, ISOSCELES
  *  test have 100% code coverage
+ *  ./coverage.sh
  */
 public class coverageTest {
 
